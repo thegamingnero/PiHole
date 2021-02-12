@@ -1,6 +1,7 @@
-# Thats my privat Blocklist feel free to Copy it or add it to your Pihole
-#
-# Fakeshop-List from https://www.gold.de/fakeshop-blacklist/ updated:12022021
+# Thats my privat Blocklist feel free to Copy it or add it to your Pihole    #
+#                                                                            #
+# Fakeshop-List from https://www.gold.de/fakeshop-blacklist/ updated:12022021#
+##############################################################################
 edelmetalle-esg.com
 goldscheideanstalt-in-takt.de
 goldscheideanstalt-wert.de
