@@ -1,3 +1,7 @@
+# Thats my privat Blocklist feel free to Copy it or add it to your Pihole    #
+#                                                                            #
+# Apple tracking data updated:28042021                                       #
+##############################################################################
 https://metrics.apple.com
 https://securemetrics.apple.com
 https://supportmetrics.apple.com
