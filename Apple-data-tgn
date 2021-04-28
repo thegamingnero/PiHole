@@ -2,9 +2,9 @@
 #                                                                            #
 # Apple tracking data updated:28042021                                       #
 ##############################################################################
-https://metrics.apple.com
-https://securemetrics.apple.com
-https://supportmetrics.apple.com
-https://metrics.icloud.com
-https://metrics.mzstatic.com
-https://trackingshipment.apple.com
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+trackingshipment.apple.com
